@@ -45,7 +45,7 @@ Para ejecutar el sitio web Gesruta en su entorno local con PHP y un servidor web
 1. Clona este repositorio en su máquina local utilizando Git, Agrega la dependencia de PHPMailer usando Composer ,Instala todas las dependencias, incluyendo PHPMailer.
 
    ```
-   git clone https://github.com/luisaap-dev/gesruta-website.git
+   git clone https://github.com/luisaap-dev/APP.Website-Gesruta
    composer require phpmailer/phpmailer
    composer install
 
